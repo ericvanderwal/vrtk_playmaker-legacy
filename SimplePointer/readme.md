@@ -12,7 +12,6 @@ Simple Pointer Actions Included:
   Pointer Thickness
   Pointer Length
   Show Pointer Tip
-
 10.Set Custom Appearance Settings
   Custom Pointer Curser
   Pointer cursor match target normal
